@@ -7,14 +7,14 @@ import java.util.Scanner;
 
 public class example1 {
     public static void main(String[] args) {
-        /* String sayi = "14";
+        String sayi = "14";
 		int number = Integer.parseInt(sayi);
 		System.out.println(number);
 
         int theNumber = Integer.parseInt(JOptionPane.showInputDialog("1.sayıyı girer misin ?"));
         System.out.println("Joption pane : " + theNumber);
 
-        -------------------------------------------------------
+        /* ------------------------------------------------------- */
 
 		int random = (int) (Math.random() * 100 + 1);
 		System.out.println(random);
@@ -27,7 +27,7 @@ public class example1 {
         String[] temp = kelime.split(" ");
         System.out.printf(temp[1]);
 
-        -------------------------------------------------------
+      /*  ------------------------------------------------------- */
 
         Scanner scanner = new Scanner(System.in);
         System.out.printf("\n1. adı giriniz : ");
@@ -42,10 +42,5 @@ public class example1 {
         else{
             System.out.println("false");
         }
-
-
-  */
-
     }
-
 }
