@@ -1,4 +1,4 @@
-package com.alperbekar.firstOne;
+package com.alperbekar.Examples;
 
 public class ExamplesWithLoops {
     public static void main(String[] args) {
