@@ -1,4 +1,4 @@
-package com.alperbekar.Examples;
+package com.alperbekar.examples;
 
 import java.util.Scanner;
 

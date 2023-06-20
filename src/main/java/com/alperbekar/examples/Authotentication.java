@@ -1,6 +1,5 @@
-package com.alperbekar.Examples;
+package com.alperbekar.examples;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class Authotentication {
