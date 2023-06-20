@@ -18,5 +18,6 @@ public class Maps {
         for (Object value:mapList.values()) {
             System.out.println(value);
         }
+        mapList.entrySet().forEach(System.out::println);
     }
 }
