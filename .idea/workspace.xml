@@ -4,27 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="13104511-c742-49a3-9ea1-1ccf0ee94b8f" name="Changes" comment="lombok">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/alperbekar/collection/Lists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/alperbekar/collection/Maps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/alperbekar/collection/Sets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/alperbekar/generics/GenericsTutorials.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/alperbekar/oop/Abstract/APerson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/alperbekar/oop/Abstract/AStudent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/alperbekar/oop/Abstract/ATeacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/alperbekar/oop/Inheritance/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/alperbekar/oop/Inheritance/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/alperbekar/oop/Inheritance/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/alperbekar/oop/Interface/ICrud.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/alperbekar/oop/Interface/InterfaceImplement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/alperbekar/oop/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/alperbekar/Examples/AsalSayi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/alperbekar/examples/AsalSayi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/alperbekar/Examples/Authotentication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/alperbekar/examples/Authotentication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/alperbekar/Examples/ExamplesWithLoops.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/alperbekar/examples/ExamplesWithLoops.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/alperbekar/Examples/ForAccesModifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/alperbekar/examples/ForAccesModifier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/alperbekar/Examples/Palindrom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/alperbekar/examples/Palindrom.java" afterDir="false" />
-    </list>
+    <list default="true" id="13104511-c742-49a3-9ea1-1ccf0ee94b8f" name="Changes" comment="complicated" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -115,7 +95,7 @@
       <workItem from="1686748911561" duration="42000" />
       <workItem from="1686748975072" duration="453000" />
       <workItem from="1687263951753" duration="59000" />
-      <workItem from="1687265422906" duration="6156000" />
+      <workItem from="1687265422906" duration="6492000" />
     </task>
     <task id="LOCAL-00001" summary="Ornekler">
       <created>1685998654721</created>
@@ -173,7 +153,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686330259270</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="complicated">
+      <created>1687275287128</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1687275287128</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -196,6 +183,7 @@
     <MESSAGE value="Konu" />
     <MESSAGE value="geri kalan" />
     <MESSAGE value="lombok" />
-    <option name="LAST_COMMIT_MESSAGE" value="lombok" />
+    <MESSAGE value="complicated" />
+    <option name="LAST_COMMIT_MESSAGE" value="complicated" />
   </component>
 </project>
